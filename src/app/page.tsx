@@ -1,6 +1,4 @@
 import Image from "next/image";
-import CourseComponent from "./component/course";
-import Course from "./component/course";
 
 export default function Home() {
   return (
